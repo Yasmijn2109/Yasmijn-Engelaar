@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+.changecolor {
+    color: #F25E61;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: italic;	
+	
+}
+
+
+
+.tilebg {
+    background-image: url(../images/Background%20tiles.png);
+    background-repeat: repeat;	
+}
+
+.new {
+    color: #1DAFF2;	
+	
+  font-family: "Big Shoulders Inline", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #066317;
+    width: 704px;
+    font-size: 80px;  font-family: "Big Shoulders Inline", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #066317;
+    width: 704px;
+    font-size: 80px;}
