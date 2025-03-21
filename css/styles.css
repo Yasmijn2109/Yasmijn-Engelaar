@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #DAFFE3;
+    background-color: #CDFFD9;
 }
 
 .resume-main {
-	background-color: #FFFFFF;
+	background-color: #EBFFF0;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #92FFAC;
 }
 
 /* Styles for lists in the document */
@@ -67,4 +67,9 @@ body {
 
 .biography-logo2 {
     width: 65px;	
+}
+
+
+.rounded-circle {
+    border: 5px solid #066317;
 }
